@@ -1,3 +1,4 @@
 # MPT-introduction
 MPT-introduction
-https://mpt.minecraftpt.com/
+
+https://mpt.mooncc.cn/
